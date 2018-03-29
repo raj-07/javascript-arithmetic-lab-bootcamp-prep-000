@@ -26,7 +26,7 @@ function dec(a) {
 }
 
 function makeInt(n) {
-  return parseInt("n");
+  return parseInt('0x2328', 10);
 }
 
 function preserveDecimal(n) {
